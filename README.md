@@ -10,6 +10,9 @@ Object Pooling,
 
 Object Pooling is implemted by having one duck go first and 
 then having all other ducks start moving once that has either been killed or hits the wall.
+This implemtation optomizes the scene by only creating ducks once the first has gone so that way the player knows the game is starting
+and by having one go first the player would not notice the delay of spawning the ducks since in later rounds more ducks spawn so having
+one start the ducks respawning makes the game run smoother and keeps the player interested.
 
 
 Command Design Pattern,
