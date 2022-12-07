@@ -1,10 +1,10 @@
 # Game_Engine_exam
 100784071 - Evrett Upshall
-Even
+Even.
 The exe is in the build folder
 
 
-Object Pooling
+Object Pooling.
 Object Pooling is implemted by having one duck go first and 
 then having all other ducks start moving once that has either been killed or hits the wall.
 
