@@ -1,15 +1,19 @@
 # Game_Engine_exam
 100784071 - Evrett Upshall
-Even.
-The exe is in the build folder
+
+Even
+
+*The exe is in the build folder
 
 
-Object Pooling.
+Object Pooling,
+
 Object Pooling is implemted by having one duck go first and 
 then having all other ducks start moving once that has either been killed or hits the wall.
 
 
-Command Design Pattern
+Command Design Pattern,
+
 The command pattern is implemted by having a bullet that the player controls with the W and S keys.
 Once the player misses two ducks the controls will switch.
 This benefits the game by giving the player feedback when they are doing bad and it makes the game harder.
